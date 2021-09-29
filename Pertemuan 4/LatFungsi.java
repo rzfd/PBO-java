@@ -2,7 +2,7 @@ import java.util.*;
 
 public class LatFungsi {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Scanner userInput = new Scanner(System.in);
 
