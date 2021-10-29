@@ -37,3 +37,5 @@ public class ConstructorYT{
         Mahasiswa mahasiswa2 = new Mahasiswa("Tarjo", "2020071014", "Informatika");
     }
 }
+
+// asdasdasdasd
